@@ -16,3 +16,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Task: Updates
 
 1. ref <https://www.freakyjolly.com/pass-data-between-components-in-angular-6-example-application/>
+
+#### Task: Add css
