@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Project Introduction
 
 1. Online ref.: <https://www.freakyjolly.com/angular-typescript-create-filter-list-with-check-boxes-to-select-from-list/>
+2. Online ref.: <https://www.freakyjolly.com/pass-data-between-components-in-angular-6-example-application/>
 
 ### Task: Step 1 – Create a filter “pipe” to Filter List
 
